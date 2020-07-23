@@ -3,8 +3,8 @@ I hope you find what you are looking for.
 
 <a href="https://www.instagram.com/md_faizan7/"> <img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
 <a href="https://t.me/mdfaizan7"><img align="left" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
-<a href="https://www.reddit.com/user/faizu07"><img align="left" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammad-faizan-azim-8a84b1142/"><img align="left" src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="40" /></a>
+<a href="https://www.reddit.com/user/faizu07"><img align="left" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" width="48" /></a>
+<a href="https://www.linkedin.com/in/mohammad-faizan-azim-8a84b1142/"><img align="left" src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="48" /></a>
 <a href="https://angel.co/u/mdfaizan7"><img src="https://img.icons8.com/nolan/48/angelist.png"/></a>
 
 <br />
