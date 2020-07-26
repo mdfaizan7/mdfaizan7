@@ -11,15 +11,15 @@ I hope you find what you are looking for.
 
 **Tools, Techniques and Languages I work with generally**
 
-<img align="left" alt="React.js" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" alt="Go" src="https://img.icons8.com/color/48/000000/golang.png"/>
-<img align="left" alt="Gatsby" src="https://i.imgur.com/SctOfpG.png" width=48/>
-<img align="left" alt="Apollo" src="https://img.icons8.com/color/48/000000/apollo.png"/>
-<img align="left" alt="GraphQL" src="https://img.icons8.com/color/48/000000/graphql.png"/>
-<img align="left" alt="Node.js" src="https://i.imgur.com/F6b6rxe.png" width=48/>
-<img align="left" alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" alt="React.js" src="https://i.imgur.com/VOLbmdA.png" width=42/>
+<img align="left" alt="JavaScript" src="https://i.imgur.com/07xNgSD.png" width=42/>
+<img align="left" alt="Python" src="https://i.imgur.com/8JaJWta.png" width=42/>
+<img align="left" alt="Go" src="https://i.imgur.com/BnRSHRM.png" width=42/>
+<img align="left" alt="Gatsby" src="https://i.imgur.com/SctOfpG.png" width=42/>
+<img align="left" alt="Apollo" src="https://i.imgur.com/hzS5Jnh.png" width=42/>
+<img align="left" alt="GraphQL" src="https://i.imgur.com/I2PgOAT.png" width=42/>
+<img align="left" alt="Node.js" src="https://i.imgur.com/F6b6rxe.png" width=42 />
+<img align="left" alt="MongoDB" src="https://i.imgur.com/Daar1kf.png" width=42/>
 
 
 <!--
