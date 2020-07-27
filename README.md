@@ -9,6 +9,19 @@ I hope you find what you are looking for.
 
 <br />
 
+About me:
+
+- 🔭 I’m currently working on WeCare.
+- 🌱 I’m currently learning GraphQL.
+- 👯 I’m looking to collaborate on any Full Stack Projects.
+- 🤔 I’m looking for help with 😅.
+- 📫 How to reach me: Any of the platforms mentioned above. But if you want to contact me through my email: <a href="mailto:faizaanazim@gmail.com">faizaanazim@gmail.com</a>
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
+
+<br />
+
 **Tools, Techniques and Languages I work with generally**
 
 <img align="left" alt="React.js" src="https://i.imgur.com/VOLbmdA.png" width=42/>
