@@ -25,15 +25,15 @@ About me:
 
 **Tools, Techniques and Languages I work with generally**
 
-<img align="left" alt="React.js" src="https://i.imgur.com/VOLbmdA.png" width=42/>
-<img align="left" alt="JavaScript" src="https://i.imgur.com/07xNgSD.png" width=42/>
+<img align="left" alt="React.js" src="https://i.imgur.com/Lx5bqB4.png" width=42/>
+<img align="left" alt="JavaScript" src="https://i.imgur.com/IRQmsrM.png" width=42/>
 <img align="left" alt="Python" src="https://i.imgur.com/8JaJWta.png" width=42/>
-<img align="left" alt="Go" src="https://i.imgur.com/BnRSHRM.png" width=42/>
+<img align="left" alt="Go" src="https://i.imgur.com/A4WHEvF.png" width=42/>
 <img align="left" alt="Gatsby" src="https://i.imgur.com/SctOfpG.png" width=42/>
-<img align="left" alt="Apollo" src="https://i.imgur.com/hzS5Jnh.png" width=42/>
+<img align="left" alt="Apollo" src="https://i.imgur.com/lqY4TF1.pngv" width=42/>
 <img align="left" alt="GraphQL" src="https://i.imgur.com/I2PgOAT.png" width=42/>
-<img align="left" alt="Node.js" src="https://i.imgur.com/F6b6rxe.png" width=42 />
-<img align="left" alt="MongoDB" src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" width=42/>
+<img align="left" alt="Node.js" src="https://i.imgur.com/8gIzdYq.png" width=42 />
+<img align="left" alt="MongoDB" src="https://i.imgur.com/HDoC3Fp.png" width=42/>
 
 <br/><br/><br/><br/>
 
