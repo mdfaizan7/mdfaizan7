@@ -1,10 +1,9 @@
-### Welcome 😊
-I hope you find what you are looking for.
+### Hi there, I'm [Faizan!](https://mdfaizan7.github.io) 👋
 
-<a href="https://www.instagram.com/md_faizan7/"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/240px-Instagram_logo_2016.svg.png" width=50/> </a>
-<a href="https://t.me/mdfaizan7"><img align="left" src="https://pngimg.com/uploads/telegram/telegram_PNG22.png" width=50/></a>
-<a href="https://www.linkedin.com/in/mohammad-faizan-azim-8a84b1142/"><img align="left" src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="50" /></a>
-<a href="https://angel.co/u/mdfaizan7"><img src="https://img.icons8.com/nolan/50/angelist.png"/></a>
+<a href="https://www.instagram.com/md_faizan7/"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/240px-Instagram_logo_2016.svg.png" width=30/> </a>
+<a href="https://t.me/mdfaizan7"><img align="left" src="https://pngimg.com/uploads/telegram/telegram_PNG22.png" width=30/></a>
+<a href="https://www.linkedin.com/in/mohammad-faizan-azim-8a84b1142/"><img align="left" src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="30" /></a>
+<a href="https://angel.co/u/mdfaizan7"><img src="https://img.icons8.com/nolan/50/angelist.png" width="30"/></a>
 
 <br />
 
