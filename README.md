@@ -2,7 +2,8 @@
 
 <a href="https://www.instagram.com/md_faizan7/"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/240px-Instagram_logo_2016.svg.png" width=30/> </a>
 <a href="https://t.me/mdfaizan7"><img align="left" src="https://pngimg.com/uploads/telegram/telegram_PNG22.png" width=30/></a>
-<a href="https://www.linkedin.com/in/mohammad-faizan-azim-8a84b1142/"><img align="left" src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="30" /></a>
+<a href="https://www.linkedin.com/in/mohammad-faizan-azim-8a84b1142/"><img align="left" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" width="30" /></a>
+<a href="https://www.reddit.com/user/faizu07"><img src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" width="30"/></a>
 <a href="https://angel.co/u/mdfaizan7"><img src="https://img.icons8.com/nolan/50/angelist.png" width="30"/></a>
 
 <br />
@@ -33,21 +34,11 @@ About me:
 <img align="left" alt="Node.js" src="https://i.imgur.com/8gIzdYq.png" width=42 />
 <img align="left" alt="MongoDB" src="https://i.imgur.com/HDoC3Fp.png" width=42/>
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mdfaizan7&show_icons=true&theme=dracula&hide=total-stars)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**mdfaizan7/mdfaizan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><i>Note: This is just a general breakdown, it doesn't reflect my strength or weaknesses.</i></p>
+<!-- Stats Dashboard -->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mdfaizan7&show_icons=true&theme=dracula&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaizan7&langs_count=11&hide=jupyter%20notebook,scss,html,css&theme=dracula">
+</p>
