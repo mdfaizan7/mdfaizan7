@@ -23,15 +23,15 @@ About me:
 
 **Tools, Techniques and Languages I work with generally**
 
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/golang.png"/>
-<img src="https://img.icons8.com/officel/48/000000/react.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/golang.png"/>
+<img align="left" src="https://img.icons8.com/officel/48/000000/react.png"/>
 <img align="left" alt="Gatsby" src="https://i.imgur.com/SctOfpG.png" width=48/>
 <img align="left" alt="Apollo" src="https://i.imgur.com/lqY4TF1.pngv" width=48/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
 <br/><br/>
 
