@@ -19,7 +19,7 @@ About me:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<br/><br/>
+<br/>
 
 **Tools, Techniques and Languages I work with generally**
 
