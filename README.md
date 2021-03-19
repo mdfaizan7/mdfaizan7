@@ -10,11 +10,11 @@
 
 About me:
 
-- 🔭 I’m currently working on WeCare.
-- 🌱 I’m currently learning GraphQL & TypeScript.
+- 🔭 I’m currently working on Powerplay.
+- 🌱 I’m currently learning GraphQL.
 - 👯 I’m looking to collaborate on any Full Stack Projects.
 - 🤔 I’m looking for help with 😅.
-- 📫 How to reach me: Any of the platforms mentioned above. But if you want to contact me through my email: <a href="mailto:faizaanazim@gmail.com">faizaanazim@gmail.com</a>
+- 📫 How to reach me: Any of the platforms mentioned above. But if you want to contact me through my email: <a href="mailto:faizaanazim@gmail.com">faizaanazim@gmail.com</a> 
 - ⚡ Fun fact: I am an alien :alien:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
