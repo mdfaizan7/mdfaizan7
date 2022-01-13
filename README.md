@@ -38,6 +38,6 @@ About me:
 <p><i>Note: This is just a general breakdown, it doesn't reflect my strength or weaknesses.</i></p>
 <!-- Stats Dashboard -->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mdfaizan7&show_icons=true&theme=dracula&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mdfaizan7&show_icons=true&theme=dracula&line_height=40&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaizan7&langs_count=11&hide=jupyter%20notebook,scss,html,css,shell&theme=dracula">
 </p>
