@@ -11,9 +11,7 @@
 About me:
 
 - 🔭 I’m currently working on Powerplay.
-- 🌱 I’m currently learning GraphQL.
 - 👯 I’m looking to collaborate on any Full Stack Projects.
-- 🤔 I’m looking for help with 😅.
 - 📫 How to reach me: Any of the platforms mentioned above. But if you want to contact me through my email: <a href="mailto:faizaanazim@gmail.com">faizaanazim@gmail.com</a> 
 - ⚡ Fun fact: I am an alien :alien:
 <!-- - 😄 Pronouns: ...
@@ -21,7 +19,7 @@ About me:
 
 <br/>
 
-**Tools, Techniques and Languages I work with generally**
+**Tools, Techniques, and Languages I work with generally**
 
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/golang.png"/>
@@ -35,9 +33,4 @@ About me:
 
 <br/><br/>
 
-<p><i>Note: This is just a general breakdown, it doesn't reflect my strength or weaknesses.</i></p>
-<!-- Stats Dashboard -->
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mdfaizan7&show_icons=true&theme=dracula&line_height=40&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaizan7&langs_count=11&hide=jupyter%20notebook,scss,html,css,shell&theme=dracula">
-</p>
+<p><i>Note: This is just a general breakdown, it doesn't reflect my strengths or weaknesses.</i></p>
