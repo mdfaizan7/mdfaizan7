@@ -10,12 +10,10 @@
 
 About me:
 
-- 🔭 I’m currently working on Powerplay.
+- 🔭 I’m currently working for Powerplay.
 - 👯 I’m looking to collaborate on any Full Stack Projects.
 - 📫 How to reach me: Any of the platforms mentioned above. But if you want to contact me through my email: <a href="mailto:faizaanazim@gmail.com">faizaanazim@gmail.com</a> 
 - ⚡ Fun fact: I am an alien :alien:
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
 <br/>
 
